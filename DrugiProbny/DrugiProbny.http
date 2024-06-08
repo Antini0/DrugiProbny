@@ -1,0 +1,6 @@
+@DrugiProbny_HostAddress = http://localhost:5185
+
+GET {{DrugiProbny_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
